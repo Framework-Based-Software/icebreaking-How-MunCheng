@@ -3,7 +3,7 @@
 Hi! I'm How Mun Cheng, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about software development especially apps development.
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+comet_neat[1].jpg
 
 ## GitHub Profile
 
